@@ -5,7 +5,7 @@ public class TestString {
    boolean b;
     public static void main(String[] args) {
        TestString s= new TestString();
-       
+
 
          int k = i+6;
         System.out.println(i);
@@ -13,7 +13,7 @@ public class TestString {
 
         System.out.println(s.b);
         System.out.println(k);
-        
+
     }
-    
+
 }

@@ -4,10 +4,10 @@ public class WhiteSpaceTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 	  Character x ='c';
-	
-	System.out.println(x.isWhitespace(x));
+
+	System.out.println(Character.isWhitespace(x));
 
 	}
 

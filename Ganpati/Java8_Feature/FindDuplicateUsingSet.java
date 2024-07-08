@@ -5,30 +5,30 @@ public class FindDuplicateUsingSet {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 	String arr [] =	new String[] {"Tom","Megan", "Melissa", "Tom", "John", "Megan", "Melissa"};
-	
-	Set<String> set = new HashSet<String>();
-	
-	
+
+	Set<String> set = new HashSet<>();
+
+
 	for(String str : arr) {
-		
-		
+
+
 		boolean z= set.add(str);
-		
+
 		System.out.println(z);
-		
+
 		 if(!z) {
-			
-			 
+
+
 			 System.out.println("Duplicate Element is:"+ str);
 		 }
-		
-		
-		
+
+
+
 	}
 
-		
+
 
 	}
 
