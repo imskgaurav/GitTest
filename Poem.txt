@@ -1,10 +1,11 @@
-<<<<<<< Updated upstream
+
+
 
 1st line Poem :
 Everybody has a name
 FROM kanha Branch:
  >test Line
  kanha
-=======
+ *********
 1 red umberlla, 1 yellow hat
->>>>>>> Stashed changes
+* Stashed changes 1*
