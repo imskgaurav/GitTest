@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=Ganpati/\/Library\/Java\/JavaVirtualMachines\/jdk-17.jdk\/Contents\/Home\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1677625575000"/>
-    <typeInfo handle="=Ganpati/\/Library\/Java\/JavaVirtualMachines\/jdk-17.jdk\/Contents\/Home\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.util(Collection.class[Collection" modifiers="1537" timestamp="1677625575000"/>
-    <typeInfo handle="=Ganpati/\/Library\/Java\/JavaVirtualMachines\/jdk-17.jdk\/Contents\/Home\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.util(List.class[List" modifiers="1537" timestamp="1677625575000"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

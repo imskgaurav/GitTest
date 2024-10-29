@@ -8,7 +8,7 @@ public class StaticConcept {
    static {
 
 
-	   x++;
+	   ++x;
    }
 
 
