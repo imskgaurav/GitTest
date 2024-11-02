@@ -9,7 +9,6 @@ public class ChkVowelsUsingIndexOfMethod {
 		
 		String input = "English";
 		
-		
 		char c = 'a';
 		
 		String s= String.valueOf(c);
@@ -30,7 +29,6 @@ public class ChkVowelsUsingIndexOfMethod {
 	}
 	
 	public static boolean isInVowelString(char c ) {
-		
 		
 		return   VOWELS.indexOf(c)!=-1;
 	}

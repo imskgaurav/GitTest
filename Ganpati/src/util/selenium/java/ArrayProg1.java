@@ -5,13 +5,8 @@ public class ArrayProg1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
 		int [] arr = {1,2,3, -1,-2,4, 5, -8 };
-		
-		
-		//Ascedning 
-		
-		
+		//Ascedning 	
 		for (int i =0; i<arr.length; i++) {
 			
 			
@@ -29,8 +24,7 @@ public class ArrayProg1 {
 			}
 			
 			
-			
-			
+
 				
 			}
 			
