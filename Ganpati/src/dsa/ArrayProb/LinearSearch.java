@@ -17,7 +17,6 @@ public class LinearSearch {
 			
 			  if(arr[i]==search_int) {
 				  
-				  
 				System.out.println("Condition Met");
 				val= true;
 				

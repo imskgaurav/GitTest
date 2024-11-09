@@ -3,11 +3,10 @@ package dsa.ArrayProb;
 public class LinearSearch_Program {
 
 
-
 	static int linearSearchAlgo(int arr[], int searchElm){
 
 		int i;
-		for( i =0; i<3; i++) {
+		for( i =0; i<arr.length; i++) {
 
 			System.out.println("Loop count :"+i);
 			if(arr[i]==searchElm) {
